@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "kotlin calculator"
+rootProject.name = "My Application"
 include(":app")
  
